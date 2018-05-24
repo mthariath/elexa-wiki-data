@@ -2,4 +2,4 @@
 <!-- SUBTITLE: A quick summary of Home -->
 
 # Fuck you
-[/people/skiba](Skiba,) fill me with your data.
+[Skiba,](/people/skiba) fill me with your data.
