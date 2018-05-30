@@ -1,5 +1,5 @@
 <!-- TITLE: Template -->
-<!-- SUBTITLE: A quick summary of Template -->
+<!-- SUBTITLE: A template to use for creating pages easily. -->
 
 # Project Title
 
