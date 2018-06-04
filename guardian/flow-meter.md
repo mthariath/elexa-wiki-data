@@ -22,7 +22,7 @@ PRODUCT FEATURES-
 * Retrofittable
 * Easy installation (no tools required)
 
-PRODUCT CAPABILITIES:
+PRODUCT CAPABILITIES-
 * Detects unusual water flow 
 * Records water consumption level
 * Capable of calculating the velocity of water
