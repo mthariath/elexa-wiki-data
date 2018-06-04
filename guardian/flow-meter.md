@@ -4,7 +4,6 @@
 # Flow Meter Idea Recogonition Document. 
 Author: Keerthi Robin
 
-
 FLOW METER BY ELEXA
 
 
