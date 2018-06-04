@@ -1,9 +1,11 @@
 <!-- TITLE: Flow Meter -->
 <!-- SUBTITLE: A quick summary of Flow Meter -->
 
-# Flow Meter Idea Recogonition Document
-FLOW METER
-                       BY ELEXA
+# Flow Meter Idea Recogonition Document. 
+Author: Keerthi Robin
+
+
+FLOW METER BY ELEXA
 
 
 VISION-
