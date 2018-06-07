@@ -25,8 +25,8 @@ The Valve Controller is the heart of a Guardian system. It installs over standar
 
 
 ## License and Certifications 
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+Here is a list of all the license and certifications attained by the Guardian Valve Controller Project:
+1. 
 
 ## Acknowledgments
 
