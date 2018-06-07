@@ -28,6 +28,7 @@
 * [Myriadpro Regular](/uploads/myriadpro-regular.otf "Myriadpro Regular")
 * [Evogria](/uploads/evogria.otf "Evogria")
 * [Roboto Bold](/uploads/roboto-bold.ttf "Roboto Bold")
-* 
+* [Roboto Regular](/uploads/roboto-regular.ttf "Roboto Regular")
+
 #### Version 2
 
