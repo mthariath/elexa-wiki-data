@@ -1,0 +1,48 @@
+Package Report
+
+-----------------------------------------------------------------------------
+Document:
+Name: 180501_GVCB1 Packaging Desing 1800502-Matt.ai
+Color Mode: RGB color
+Color Profile: none
+Ruler Units: millimeters
+Artboard Dimensions: 1353.3493 mm x 1153.2148 mm
+Show Images in Outline Mode: OFF
+Highlight Substituted Fonts: OFF
+Highlight Substituted Glyphs: OFF
+Preserve Text Editability
+Simulate Colored Paper: OFF
+
+-----------------------------------------------------------------------------
+Spot Color Objects:
+C=87 M=48 Y=3 K=0 1 (CMYK)
+PANTONE 285 C (Lab)
+PANTONE 7548 C (Lab)
+
+-----------------------------------------------------------------------------
+Missing Fonts:NONE
+
+-----------------------------------------------------------------------------
+Protected Fonts that were not packaged:
+Open Sans (Typekit Fonts)
+Open Sans Semibold (Typekit Fonts)
+Open Sans Bold (Typekit Fonts)
+
+-----------------------------------------------------------------------------
+Fonts:
+Evogria (OTF)
+Myriad Pro (OTF)
+Roboto (TrueType)
+Roboto Bold (TrueType)
+
+-----------------------------------------------------------------------------
+Embedded Fonts:
+NONE
+
+-----------------------------------------------------------------------------
+Missing Links:
+NONE
+
+-----------------------------------------------------------------------------
+Linked Images:
+NONE
