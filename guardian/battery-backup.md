@@ -26,6 +26,6 @@
 #### Version 1
 1. Fonts
 * [Myriadpro Regular](/uploads/myriadpro-regular.otf "Myriadpro Regular")
-* 
+* [Evogria](/uploads/evogria.otf "Evogria")
 #### Version 2
 
