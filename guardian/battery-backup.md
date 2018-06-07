@@ -12,7 +12,7 @@
 
 ## Packaging
 ### GVC1 User Manual Design Files
-* 
+* [User Manual Design](/uploads/user-manual-design.indd "User Manual Design")
 
 ### 180430 Package Design Documents
 1. Illustrator files
