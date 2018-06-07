@@ -15,6 +15,7 @@
 ### 180430 Package Design Documents
 1. Illustrator files
 * [Gvcb 1 Packaging Design Doc 1](/uploads/gvcb-1-packaging-design-doc-1.ai "Gvcb 1 Packaging Design Doc 1")
+* [Gvcb 1 Packaging Design Doc 2](/uploads/gvcb-1-packaging-design-doc-2.ai "Gvcb 1 Packaging Design Doc 2")
 * 
 
 
