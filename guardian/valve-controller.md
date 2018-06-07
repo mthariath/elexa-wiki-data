@@ -3,29 +3,18 @@
 The Valve Controller is the heart of a Guardian system. It installs over standard ball valves with no tools and no plumber to automatically shut off the water main during a leak. It also acts as the point of contact between the Guardian app and all connected Water Detectors in the system.
 
 ## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
-### Prerequisites
-![20180413 154851](/uploads/skiba-pics/20180413-154851.jpg "20180413 154851"){.align-right}
-
-### Installation
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
+## Installation
 ## Running the tests
 ## Deployment
-
-## API Documents
+## Documents
+### API Documents
 
 1. [Gvc 1 Api Document](/uploads/gvc-1-api-document.pdf "Gvc 1 Api Document")
 2. [Guardian Api Document Advanced](/uploads/guardian-api-document-advanced.txt "Guardian Api Document Advanced")
 3. [Guardian Api Document Advanced](/uploads/guardian-api-document-advanced.txt "Guardian Api Document Advanced")
 4. [Json Commands](/uploads/json-commands.txt "Json Commands")
 
-## Specification Sheet
+### Specification Sheet
 
 [Valve Controller Spec Sheet](/uploads/valve-controller-spec-sheet.pdf "Valve Controller Spec Sheet")
 
