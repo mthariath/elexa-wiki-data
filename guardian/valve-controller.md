@@ -7,6 +7,7 @@ The Valve Controller is the heart of a Guardian system. It installs over standar
 ## Running the tests
 ## Deployment
 ## Documents
+
 ### API Documents
 
 1. [Gvc 1 Api Document](/uploads/gvc-1-api-document.pdf "Gvc 1 Api Document")
@@ -16,7 +17,12 @@ The Valve Controller is the heart of a Guardian system. It installs over standar
 
 ### Specification Sheet
 
-[Valve Controller Spec Sheet](/uploads/valve-controller-spec-sheet.pdf "Valve Controller Spec Sheet")
+* [Valve Controller Spec Sheet](/uploads/valve-controller-spec-sheet.pdf "Valve Controller Spec Sheet")
+
+### Power Supply Test Document
+
+* [Gvcp 1 Ca 65 Report](/uploads/gvcp-1-ca-65-report.pdf "Gvcp 1 Ca 65 Report")
+
 
 
 
