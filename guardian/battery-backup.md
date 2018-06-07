@@ -16,6 +16,8 @@
 1. Illustrator files
 * [Gvcb 1 Packaging Design Doc 1](/uploads/gvcb-1-packaging-design-doc-1.ai "Gvcb 1 Packaging Design Doc 1")
 * [Gvcb 1 Packaging Design Doc 2](/uploads/gvcb-1-packaging-design-doc-2.ai "Gvcb 1 Packaging Design Doc 2")
-* 
+* [Gvcb 1 Packaging Design Doc 3](/uploads/gvcb-1-packaging-design-doc-3.ai "Gvcb 1 Packaging Design Doc 3")
 
+2. PDF FILES
+* 
 
