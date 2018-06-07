@@ -19,7 +19,10 @@ Say what the step will be
 ## Deployment
 
 ## API Documents
-[Gvc 1 Api Document](/uploads/gvc-1-api-document.pdf "Gvc 1 Api Document")
+
+1. [Gvc 1 Api Document](/uploads/gvc-1-api-document.pdf "Gvc 1 Api Document")
+2. [Guardian Api Document Advanced](/uploads/guardian-api-document-advanced.txt "Guardian Api Document Advanced")
+3. [Guardian Api Document Advanced](/uploads/guardian-api-document-advanced.txt "Guardian Api Document Advanced")
 
 ## Specification Sheet
 [Valve Controller Spec Sheet](/uploads/valve-controller-spec-sheet.pdf "Valve Controller Spec Sheet")
