@@ -19,5 +19,5 @@
 * [Gvcb 1 Packaging Design Doc 3](/uploads/gvcb-1-packaging-design-doc-3.ai "Gvcb 1 Packaging Design Doc 3")
 
 2. PDF FILES
-* 
+* [Gvcb 1 Packaging Desing 180430 Matt Copy](/uploads/gvcb-1-packaging-desing-180430-matt-copy.pdf "Gvcb 1 Packaging Desing 180430 Matt Copy")
 
