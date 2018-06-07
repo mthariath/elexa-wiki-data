@@ -27,5 +27,7 @@
 1. Fonts
 * [Myriadpro Regular](/uploads/myriadpro-regular.otf "Myriadpro Regular")
 * [Evogria](/uploads/evogria.otf "Evogria")
+* [Roboto Bold](/uploads/roboto-bold.ttf "Roboto Bold")
+* 
 #### Version 2
 
