@@ -13,6 +13,8 @@
 ## Packaging
 
 ### 180430 Package Design Documents
-1. 
+1. Illustrator files
+* [Gvcb 1 Packaging Design Doc 1](/uploads/gvcb-1-packaging-design-doc-1.ai "Gvcb 1 Packaging Design Doc 1")
+* 
 
 
