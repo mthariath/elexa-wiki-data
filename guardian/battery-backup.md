@@ -24,5 +24,8 @@
 
 ### 180502 Package Design Documents
 #### Version 1
+1. Fonts
+* [Myriadpro Regular](/uploads/myriadpro-regular.otf "Myriadpro Regular")
+* 
 #### Version 2
 
