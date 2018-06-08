@@ -17,34 +17,32 @@ The Valve Controller is the heart of a Guardian system. It installs over standar
 
 ## Specification Sheet
 
-* [Valve Controller Spec Sheet](/uploads/valve-controller-spec-sheet.pdf "Valve Controller Spec Sheet")
+1. [Valve Controller Spec Sheet](/uploads/valve-controller-spec-sheet.pdf "Valve Controller Spec Sheet")
 
 ## Power Supply
 
-* [Gvcp 1 Ca 65 Report](/uploads/gvcp-1-ca-65-report.pdf "Gvcp 1 Ca 65 Report")
-* [Assa 67 C 2 A 0 Etl C 2 A 060950 60065 C 2 A 0 Cert](/uploads/assa-67-c-2-a-0-etl-c-2-a-060950-60065-c-2-a-0-cert.pdf "Assa 67 C 2 A 0 Etl C 2 A 060950 60065 C 2 A 0 Cert")
-* [Assa 67 C 2 A 0 Etl C 2 A 060950 60065 C 2 A 0 Report](/uploads/assa-67-c-2-a-0-etl-c-2-a-060950-60065-c-2-a-0-report.pdf "Assa 67 C 2 A 0 Etl C 2 A 060950 60065 C 2 A 0 Report")
-
+1.  [Gvcp 1 Ca 65 Report](/uploads/gvcp-1-ca-65-report.pdf "Gvcp 1 Ca 65 Report")
+2.  [Assa 67 C 2 A 0 Etl C 2 A 060950 60065 C 2 A 0 Cert](/uploads/assa-67-c-2-a-0-etl-c-2-a-060950-60065-c-2-a-0-cert.pdf "Assa 67 C 2 A 0 Etl C 2 A 060950 60065 C 2 A 0 Cert")
+3.  [Assa 67 C 2 A 0 Etl C 2 A 060950 60065 C 2 A 0 Report](/uploads/assa-67-c-2-a-0-etl-c-2-a-060950-60065-c-2-a-0-report.pdf "Assa 67 C 2 A 0 Etl C 2 A 060950 60065 C 2 A 0 Report")
+ 
 
 ## Certifications 
 
 ### PCB
-* [Pcb Ul Zpmv 2 Future Supplier 1](/uploads/pcb-ul-zpmv-2-future-supplier-1.pdf "Pcb Ul Zpmv 2 Future Supplier 1")
-* [Pcb Ul Zpmv 2 Future Supplier 2](/uploads/pcb-ul-zpmv-2-future-supplier-2.pdf "Pcb Ul Zpmv 2 Future Supplier 2")
-* [Pcb Ul Zpmv 2 Current Supplier](/uploads/pcb-ul-zpmv-2-current-supplier.pdf "Pcb Ul Zpmv 2 Current Supplier")
-
+1. [Pcb Ul Zpmv 2 Future Supplier 1](/uploads/pcb-ul-zpmv-2-future-supplier-1.pdf "Pcb Ul Zpmv 2 Future Supplier 1")
+2. [Pcb Ul Zpmv 2 Future Supplier 2](/uploads/pcb-ul-zpmv-2-future-supplier-2.pdf "Pcb Ul Zpmv 2 Future Supplier 2")
+3. [Pcb Ul Zpmv 2 Current Supplier](/uploads/pcb-ul-zpmv-2-current-supplier.pdf "Pcb Ul Zpmv 2 Current Supplier")
+ 
 ### Enclosure Plastic
-* [Enclosure Plastic Rohs](/uploads/enclosure-plastic-rohs.pdf "Enclosure Plastic Rohs")
-* [Enclosure Plastic Iec 60696 11 10](/uploads/enclosure-plastic-iec-60696-11-10.pdf "Enclosure Plastic Iec 60696 11 10")
-* [Enclosure Plastic Iso](/uploads/enclosure-plastic-iso.pdf "Enclosure Plastic Iso")
+1. [Enclosure Plastic Rohs](/uploads/enclosure-plastic-rohs.pdf "Enclosure Plastic Rohs")
+2. [Enclosure Plastic Iec 60696 11 10](/uploads/enclosure-plastic-iec-60696-11-10.pdf "Enclosure Plastic Iec 60696 11 10")
+3. [Enclosure Plastic Iso](/uploads/enclosure-plastic-iso.pdf "Enclosure Plastic Iso")
 
 
 ## Icon
 * [Gicon](/uploads/gicon.ico "Gicon")
 * [Gred](/uploads/gred.ico "Gred")
 * [Hell](/uploads/hell.ico "Hell")
-* 
-
 
 
 ## Hammer
