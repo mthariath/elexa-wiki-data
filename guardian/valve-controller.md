@@ -26,15 +26,10 @@ The Valve Controller is the heart of a Guardian system. It installs over standar
 * [Assa 67 C 2 A 0 Etl C 2 A 060950 60065 C 2 A 0 Report](/uploads/assa-67-c-2-a-0-etl-c-2-a-060950-60065-c-2-a-0-report.pdf "Assa 67 C 2 A 0 Etl C 2 A 060950 60065 C 2 A 0 Report")
 
 
+## Certifications 
+* [Pcb Ul Zpmv 2 Future Supplier 1](/uploads/pcb-ul-zpmv-2-future-supplier-1.pdf "Pcb Ul Zpmv 2 Future Supplier 1")
 
 
-## Authors
-
-
-
-## License and Certifications 
-Here is a list of all the license and certifications attained by the Guardian Valve Controller Project:
-1. 
 
 ## Acknowledgments
 
