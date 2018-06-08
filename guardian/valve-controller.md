@@ -40,37 +40,33 @@ The Valve Controller is the heart of a Guardian system. It installs over standar
 
 
 ## Icon
-* [Gicon](/uploads/gicon.ico "Gicon")
-* [Gred](/uploads/gred.ico "Gred")
-* [Hell](/uploads/hell.ico "Hell")
+1. [Gicon](/uploads/gicon.ico "Gicon")
+2. [Gred](/uploads/gred.ico "Gred")
+3. [Hell](/uploads/hell.ico "Hell")
 
 
 ## Hammer
-* [Readme Txt](/uploads/readme-txt.docx "Readme Txt")
-* [Machammer 0 0 1](/uploads/machammer-0-0-1.exe "Machammer 0 0 1")
-* [Helphammer 1 0 1](/uploads/helphammer-1-0-1.exe "Helphammer 1 0 1")
-* [Helphammer 2 2 2](/uploads/helphammer-2-2-2.exe "Helphammer 2 2 2")
+1. [Readme Txt](/uploads/readme-txt.docx "Readme Txt")
+2. [Machammer 0 0 1](/uploads/machammer-0-0-1.exe "Machammer 0 0 1")
+3. [Helphammer 1 0 1](/uploads/helphammer-1-0-1.exe "Helphammer 1 0 1")
+4. [Helphammer 2 2 2](/uploads/helphammer-2-2-2.exe "Helphammer 2 2 2")
 
 ### Python files
-* [Machammer](/uploads/machammer.py "Machammer")
-* [Machammer 002](/uploads/machammer-002.py "Machammer 002")
-
-* [Megahammer 001](/uploads/megahammer-001.py "Megahammer 001")
-* [Megahammer 003](/uploads/megahammer-003.py "Megahammer 003")
-* [Megahammer 004](/uploads/megahammer-004.py "Megahammer 004")
-* [Megahammer 005](/uploads/megahammer-005.py "Megahammer 005")
-* [Megahammer 006](/uploads/megahammer-006.py "Megahammer 006")
-* [Megahammer 007](/uploads/megahammer-007.py "Megahammer 007")
-
-* [Threadhammer 002](/uploads/threadhammer-002.py "Threadhammer 002")
+1. [Machammer](/uploads/machammer.py "Machammer")
+2. [Machammer 002](/uploads/machammer-002.py "Machammer 002")
+3. [Megahammer 001](/uploads/megahammer-001.py "Megahammer 001")
+4. [Megahammer 003](/uploads/megahammer-003.py "Megahammer 003")
+5. [Megahammer 004](/uploads/megahammer-004.py "Megahammer 004")
+6. [Megahammer 005](/uploads/megahammer-005.py "Megahammer 005")
+7. [Megahammer 006](/uploads/megahammer-006.py "Megahammer 006")
+8. [Megahammer 007](/uploads/megahammer-007.py "Megahammer 007")
+9. [Threadhammer 002](/uploads/threadhammer-002.py "Threadhammer 002")
 
 ### Word files
-* [Megahammer 001 Py](/uploads/megahammer-001-py.docx "Megahammer 001 Py")
-* [Megahammer 004 Py](/uploads/megahammer-004-py.docx "Megahammer 004 Py")
-* [Megahammer 006 Py](/uploads/megahammer-006-py.docx "Megahammer 006 Py")
-
-* [Threadhammer 002 Py](/uploads/threadhammer-002-py.docx "Threadhammer 002 Py")
-
-* [Recalhammer Py](/uploads/recalhammer-py.docx "Recalhammer Py")
+ 1. [Megahammer 001 Py](/uploads/megahammer-001-py.docx "Megahammer 001 Py")
+ 2. [Megahammer 004 Py](/uploads/megahammer-004-py.docx "Megahammer 004 Py")
+ 3. [Megahammer 006 Py](/uploads/megahammer-006-py.docx "Megahammer 006 Py")
+ 4. [Threadhammer 002 Py](/uploads/threadhammer-002-py.docx "Threadhammer 002 Py")
+ 5. [Recalhammer Py](/uploads/recalhammer-py.docx "Recalhammer Py")
 
 
