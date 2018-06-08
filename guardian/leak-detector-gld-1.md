@@ -11,4 +11,6 @@
 
 ## Other Certifications
 1. [Enclosure Plastic Rohs 1](/uploads/enclosure-plastic-rohs-1.pdf "Enclosure Plastic Rohs 1")
-2. 
+2. [Enclosure Plastic Iec 60696 11 10 1](/uploads/enclosure-plastic-iec-60696-11-10-1.pdf "Enclosure Plastic Iec 60696 11 10 1")
+3. [Enclosure Plastic Iso](/uploads/enclosure-plastic-iso.pdf "Enclosure Plastic Iso")
+4. 
