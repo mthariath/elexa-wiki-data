@@ -2,3 +2,7 @@
 
 ## Specification Sheet
 1. [Leak Detector Spec Sheet](/uploads/leak-detector-spec-sheet.pdf "Leak Detector Spec Sheet")
+
+## Battery Information
+1. [Ramway Er 18505 Msds](/uploads/ramway-er-18505-msds.pdf "Ramway Er 18505 Msds")
+2. 
