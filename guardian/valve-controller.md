@@ -28,6 +28,8 @@ The Valve Controller is the heart of a Guardian system. It installs over standar
 
 ## Certifications 
 * [Pcb Ul Zpmv 2 Future Supplier 1](/uploads/pcb-ul-zpmv-2-future-supplier-1.pdf "Pcb Ul Zpmv 2 Future Supplier 1")
+* [Pcb Ul Zpmv 2 Future Supplier 2](/uploads/pcb-ul-zpmv-2-future-supplier-2.pdf "Pcb Ul Zpmv 2 Future Supplier 2")
+* 
 
 
 
