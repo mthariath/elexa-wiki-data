@@ -53,6 +53,8 @@ The Valve Controller is the heart of a Guardian system. It installs over standar
 * [Megahammer 004](/uploads/megahammer-004.py "Megahammer 004")
 * [Megahammer 005](/uploads/megahammer-005.py "Megahammer 005")
 * [Megahammer 006](/uploads/megahammer-006.py "Megahammer 006")
+* [Megahammer 007](/uploads/megahammer-007.py "Megahammer 007")
+
 * 
 
 
