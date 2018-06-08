@@ -43,15 +43,6 @@ The Valve Controller is the heart of a Guardian system. It installs over standar
 ###GVC1
 1. [Gvc 1 Giftbox Artwork 20180521](/uploads/gvc-1-giftbox-artwork-20180521-.pdf "Gvc 1 Giftbox Artwork 20180521")
 
-
-
-###GVD3
-
-
-###KGLPS1-1
-
-
-
 ## Icon
 1. [Gicon](/uploads/gicon.ico "Gicon")
 2. [Gred](/uploads/gred.ico "Gred")
