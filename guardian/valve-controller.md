@@ -49,6 +49,19 @@ Bottom LED: pulsing red
 
 ### Functional Description of Guardian
 #### Top LED Behavior
+
+<table>
+<tr><th> Behavior </th><th> This happens when...</th></tr>
+<tr><td>Power LED on:</th><td>Unit is plugged in</td><tr>
+<tr><td>Power LED off:</td><td>Unit is not plugged in.</td></tr>
+<tr><td>Wi-Fi LED double blinks:</td><td>Hotspot on.</td></tr>
+<tr><td>Wi-Fi LED off:</td><td>Hotspot off, not connected to Wi-Fi.</td></tr>
+<tr><th> Wi-Fi light single blinking: </th><th> Connected to Wi-Fi but no cloud access.</th></tr>
+<tr><td>Wi-Fi solid: LED</th><td>Connected to Wi-Fi and connected to cloud.</td><tr>
+<tr><td>Guardian RF LED double blinking:</td><td>Bluetooth is on.</td></tr>
+<tr><td>Guardian RF single blinking:</td><td>Guardian RF message received</td></tr>
+<tr><td>Guardian RF LED off:</td><td>Bluetooth off and no Guardian RF message received.</td></tr>
+</table>
                           
 **Power LED on:**	                                    *Unit is plugged in.*
 **Power LED off:**	                                   *Unit is not plugged in.*
