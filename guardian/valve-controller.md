@@ -9,7 +9,7 @@ The Valve Controller is the heart of a Guardian system. It installs over standar
 
 ### Functional Description of Guardian
                           
-Power LED on:	                                    Unit is plugged in.
+**Power LED on**:	                                    Unit is plugged in.
 Power LED off:	                                   Unit is not plugged in.
 Wi-Fi LED double blinks:	                   Hotspot on.
 Wi-Fi LED off:	                                    Hotspot off, not connected to Wi-Fi.
@@ -29,7 +29,7 @@ Hold for 25 seconds:	Guardian beeps, factory reset.
 ### Bottom LED Behavior
 
 Breathing red:	                                  Valve handle closed.
-Blinking blue:	                                      Valve handle is opening.
+Blinking blue:	                                    Valve handle is opening.
 Solid blue:	Valve handle open.
 Blinking red:	Valve handle is closing.
 Alternating red and blue:	Valve handle stalled.
