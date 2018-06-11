@@ -52,12 +52,12 @@ Bottom LED: pulsing red
 
 <table>
 <tr><th> Behavior </th><th> This happens when...</th></tr>
-<tr><td>Power LED on</th><td>Unit is plugged in</td><tr>
+<tr><td>Power LED on</th><td>Unit is plugged in.</td><tr>
 <tr><td>Power LED off</td><td>Unit is not plugged in.</td></tr>
 <tr><td>Wi-Fi LED double blinks</td><td>Hotspot on.</td></tr>
 <tr><td>Wi-Fi LED off</td><td>Hotspot off, not connected to Wi-Fi.</td></tr>
-<tr><td> Wi-Fi light single blinking </th><td> Connected to Wi-Fi but no cloud access, hotspot off.</th></tr>
-<tr><td>Wi-Fi solid LED</th><td>Connected to Wi-Fi and connected to cloud, hotspot off.</td><tr>
+<tr><td> Wi-Fi light single blinking </th><td> Hotspot off, connected to Wi-Fi but no cloud access.</th></tr>
+<tr><td>Wi-Fi solid LED</th><td>Hotspot off, connected to Wi-Fi and connected to cloud.</td><tr>
 <tr><td>Guardian RF LED double blinking</td><td>Bluetooth is on.</td></tr>
 <tr><td>Guardian RF single blinking</td><td>Guardian RF message received</td></tr>
 <tr><td>Guardian RF LED off</td><td>Bluetooth off and no Guardian RF message received.</td></tr>
