@@ -64,6 +64,7 @@ Bottom LED: pulsing red
 
 <table>
 <tr><th> Behavior </th><th> This happens when...</th></tr>
+</table>
 
 **Press button once:**	*Valve opens or closes.*
 **Hold for 5 seconds:**	*Guardian beeps and Bluetooth is turned on.*
