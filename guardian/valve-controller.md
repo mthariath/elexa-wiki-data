@@ -19,7 +19,7 @@ The Valve Controller is the heart of a Guardian system. It installs over standar
 
 1. [Valve Controller Spec Sheet](/uploads/valve-controller-spec-sheet.pdf "Valve Controller Spec Sheet")
 
-## Power Supply
+## Power Supply Documents
 
 1.  [Gvcp 1 Ca 65 Report](/uploads/gvcp-1-ca-65-report.pdf "Gvcp 1 Ca 65 Report")
 2.  [Assa 67 C 2 A 0 Etl C 2 A 060950 60065 C 2 A 0 Cert](/uploads/assa-67-c-2-a-0-etl-c-2-a-060950-60065-c-2-a-0-cert.pdf "Assa 67 C 2 A 0 Etl C 2 A 060950 60065 C 2 A 0 Cert")
@@ -39,8 +39,6 @@ The Valve Controller is the heart of a Guardian system. It installs over standar
 3. [Enclosure Plastic Iso](/uploads/enclosure-plastic-iso.pdf "Enclosure Plastic Iso")
 
 ## Packaging
-
-###GVC1
 1. [Gvc 1 Giftbox Artwork 20180521](/uploads/gvc-1-giftbox-artwork-20180521-.pdf "Gvc 1 Giftbox Artwork 20180521")
 
 ## Icon
