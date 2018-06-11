@@ -48,6 +48,7 @@ Bottom LED: pulsing red
 ## Running the tests
 
 ### Functional Description of Guardian
+#### Top LED Behavior
                           
 **Power LED on:**	                                    *Unit is plugged in.*
 **Power LED off:**	                                   *Unit is not plugged in.*
@@ -59,14 +60,14 @@ Bottom LED: pulsing red
 **Guardian RF LED single blinking:**	      *Guardian RF message received.*
 **Guardian RF LED off:**	                         *Bluetooth off and no Guardian RF message received.*
 
-### Button Behavior 
+#### Button Behavior 
 
 **Press button once:**	*Valve opens or closes.*
 **Hold for 5 seconds:**	*Guardian beeps and Bluetooth is turned on.*
 **Hold for 15 seconds:**	*Guardian beeps and Wi-Fi AP information is reset.*
 **Hold for 25 seconds:**	*Guardian beeps, factory reset.*
 
-### Bottom LED Behavior
+#### Bottom LED Behavior
 
 **Breathing red:**	        *Valve handle closed.*
 **Blinking blue:**	         *Valve handle is opening.*
