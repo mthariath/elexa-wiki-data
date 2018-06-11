@@ -7,7 +7,7 @@ The Valve Controller is the heart of a Guardian system. It installs over standar
 
 ## Running the tests
 
-###Functional Description of Guardian
+### Functional Description of Guardian
                           
 Power LED on:	                                    Unit is plugged in.
 Power LED off:	                                   Unit is not plugged in.
