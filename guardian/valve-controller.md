@@ -141,7 +141,7 @@ Bottom LED: pulsing red
 ## Icon (Guardian 'G' symbol)
 1. [Gicon](/uploads/gicon.ico "Gicon")
 2. [Gred](/uploads/gred.ico "Gred")
-3. [Hell](/uploads/hell.ico "Hell") 
+
 
 
 ## Hammer
