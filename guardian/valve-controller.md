@@ -68,19 +68,19 @@ Bottom LED: pulsing red
 
 ### Button Behavior 
 
-Press button once:	Valve opens or closes.
-Hold for 5 seconds:	Guardian beeps and Bluetooth is turned on.
-Hold for 15 seconds:	Guardian beeps and Wi-Fi AP information is reset.
-Hold for 25 seconds:	Guardian beeps, factory reset.
+**Press button once:**	*Valve opens or closes.*
+**Hold for 5 seconds:**	*Guardian beeps and Bluetooth is turned on.*
+**Hold for 15 seconds:**	*Guardian beeps and Wi-Fi AP information is reset.*
+**Hold for 25 seconds:**	*Guardian beeps, factory reset.*
 
 ### Bottom LED Behavior
 
-Breathing red:	                                  Valve handle closed.
-Blinking blue:	                                    Valve handle is opening.
-Solid blue:	Valve handle open.
-Blinking red:	Valve handle is closing.
-Alternating red and blue:	Valve handle stalled.
-Flashing purple:	ST update.
+**Breathing red:**	        *Valve handle closed.*
+**Blinking blue:**	         *Valve handle is opening.*
+**Solid blue:**	                *Valve handle open.*
+**Blinking red:**	             *Valve handle is closing.*
+**Alternating red and blue:**	 *Valve handle stalled.*
+**Flashing purple:**	            *ST update.*
 
 
 
