@@ -8,6 +8,12 @@ The Valve Controller is the heart of a Guardian system. It installs over standar
 ## Running the tests
 
 ### Functional Description of Guardian
+
+ <table>
+ <tr><th>Food</th><th>Price</th></tr>
+ <tr><td>Bread</td><td>$2.99</td></tr>
+ <tr><td>Milk</td><td>$1.40</td></tr>
+ </table>
                           
 **Power LED on:**	                                    *Unit is plugged in.*
 **Power LED off:**	                                   *Unit is not plugged in.*
