@@ -64,10 +64,10 @@ Bottom LED: pulsing red
 
 <table>
 <tr><th> Behavior </th><th> This happens when...</th></tr>
-<tr><td>**Press button once:**</th><td>*Valve opens or closes.*</td><tr>
-<tr><td>**Hold for 5 seconds:**</td><td>*Guardian beeps and Bluetooth is turned on.*</td></tr>
-<tr><td>**Hold for 15 seconds:**</td><td>*Guardian beeps and Wi-Fi AP information is reset.*</td></tr>
-<tr><td>**Hold for 25 seconds:**</td><td>*Guardian beeps, factory reset.*</td></tr>
+<tr><td>Press button once:</th><td>Valve opens or closes.</td><tr>
+<tr><td>Hold for 5 seconds:</td><td>Guardian beeps and Bluetooth is turned on.</td></tr>
+<tr><td>Hold for 15 seconds:</td><td>Guardian beeps and Wi-Fi AP information is reset.</td></tr>
+<tr><td>Hold for 25 seconds:</td><td>Guardian beeps, factory reset.</td></tr>
 </table>
 
 **Press button once:**	*Valve opens or closes.*
@@ -77,19 +77,13 @@ Bottom LED: pulsing red
 
 #### Bottom LED Behavior
 
-<table>
- <tr><th>Food</th><th>Price</th></tr>
- <tr><td>Bread</td><td>$2.99</td></tr>
- <tr><td>Milk</td><td>$1.40</td></tr>
- </table>
- 
  <table>
 <tr><th> Behavior </th><th> This happens when...</th></tr>
-<tr><td>**Breathing red:**</th><td>*Valve handle closed.*</td><tr>
-<tr><td>**Blinking blue:**</td><td> *Valve handle is opening.*</td></tr>
-<tr><td>**Blinking red:**	  </td><td>*Valve handle open.*</td></tr>
-<tr><td>**Alternating red and blue:**</td><td> *Valve handle is closing.*</td></tr>
-<tr><td>**Flashing purple:**</td><td>*ST update.*</td></tr>
+<tr><td>Breathing red:</th><td>Valve handle closed.</td><tr>
+<tr><td>Blinking blue:</td><td> Valve handle is opening.</td></tr>
+<tr><td>Blinking red:	  </td><td>Valve handle open.</td></tr>
+<tr><td>Alternating red and blue:</td><td> Valve handle is closing.</td></tr>
+<tr><td>Flashing purple:</td><td>ST update.</td></tr>
 </table>
 
 **Breathing red:**	        *Valve handle closed.*
