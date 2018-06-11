@@ -19,14 +19,14 @@ Guardian RF LED double blinking:	    Bluetooth is on.
 Guardian RF LED single blinking:	      Guardian RF message received.
 Guardian RF LED off:	                         Bluetooth off and no Guardian RF message received.
 
-Button Behavior 
-Behavior	This happens when...
+### Button Behavior 
+
 Press button once	Valve opens or closes.
 Hold for 5 seconds	Guardian beeps and Bluetooth is turned on.
 Hold for 15 seconds	Guardian beeps and Wi-Fi AP information is reset.
 Hold for 25 seconds	Guardian beeps, factory reset.
 
-Bottom LED Behavior
+### Bottom LED Behavior
 Behavior	This happens when...
 Breathing red	Valve handle closed.
 Blinking blue	Valve handle is opening.
