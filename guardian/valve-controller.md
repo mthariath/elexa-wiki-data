@@ -54,7 +54,7 @@ The Valve Controller is the heart of a Guardian system. It installs over standar
 2. [MacHammer 0 0 1](/uploads/machammer-0-0-1.exe "Machammer 0 0 1") &mdash; This tool identifies the IP of the Valve Controller on the same network as the PC.
 3. [Helphammer 1 0 1](/uploads/helphammer-1-0-1.exe "Helphammer 1 0 1") &mdash; HelpHammer V1 has optional IP targeting. If you know the IP of your Valve Controller you can use this tool to update the firmware (beta and production) and connect to Wi-Fi. If IP is unknown, you can send the command to all Valve Controllers on the same network as the PC.
 4. [Helphammer 2 2 2](/uploads/helphammer-2-2-2.exe "Helphammer 2 2 2")&mdash; HelpHammer V2 has no option to enter the IP. It finds the IP of a Valve Controller on the same network as the PC. You can use this tool to update the firmware (beta and production), connect to Wi-Fi, recalibrate, and do a factory reset.
-> NOTE: Use only on networks with ONE Valve Controller on it.
+> NOTE: Use only HelpHammer V2.X.X on networks with ONE Valve Controller on it.
 
 ### Python files
 1. [Machammer](/uploads/machammer.py "Machammer")
