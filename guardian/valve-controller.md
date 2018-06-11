@@ -62,6 +62,9 @@ Bottom LED: pulsing red
 
 #### Button Behavior 
 
+<table>
+<tr><th> Behavior </th><th> This happens when...</th></tr>
+
 **Press button once:**	*Valve opens or closes.*
 **Hold for 5 seconds:**	*Guardian beeps and Bluetooth is turned on.*
 **Hold for 15 seconds:**	*Guardian beeps and Wi-Fi AP information is reset.*
