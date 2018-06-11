@@ -4,7 +4,42 @@ The Valve Controller is the heart of a Guardian system. It installs over standar
 
 ## Getting Started
 ## Installation
+
 ## Running the tests
+
+Functional Description of Guardian
+
+Top LED Behavior:                              Behavior	This happens when...
+Power LED on	Unit is plugged in.
+Power LED off	Unit is not plugged in.
+Wi-Fi LED double blinks	Hotspot on.
+Wi-Fi LED off	Hotspot off, not connected to Wi-Fi.
+Wi-Fi light single blinking	Connected to Wi-Fi but no cloud access.
+Wi-Fi solid LED	Connected to Wi-Fi and connected to cloud.
+Guardian RF LED double blinking	Bluetooth is on.
+Guardian RF LED single blinking	Guardian RF message received.
+Guardian RF LED off	Bluetooth off and no Guardian RF message received.
+
+Button Behavior 
+Behavior	This happens when...
+Press button once	Valve opens or closes.
+Hold for 5 seconds	Guardian beeps and Bluetooth is turned on.
+Hold for 15 seconds	Guardian beeps and Wi-Fi AP information is reset.
+Hold for 25 seconds	Guardian beeps, factory reset.
+
+Bottom LED Behavior
+Behavior	This happens when...
+Breathing red	Valve handle closed.
+Blinking blue	Valve handle is opening.
+Solid blue	Valve handle open.
+Blinking red	Valve handle is closing.
+Alternating red and blue	Valve handle stalled.
+Flashing purple	ST update.
+
+
+
+
+
 ## Deployment
 
 
