@@ -56,8 +56,8 @@ Bottom LED: pulsing red
 <tr><td>Power LED off:</td><td>Unit is not plugged in.</td></tr>
 <tr><td>Wi-Fi LED double blinks:</td><td>Hotspot on.</td></tr>
 <tr><td>Wi-Fi LED off:</td><td>Hotspot off, not connected to Wi-Fi.</td></tr>
-<tr><td> Wi-Fi light single blinking: </th><td> Connected to Wi-Fi but no cloud access.</th></tr>
-<tr><td>Wi-Fi solid: LED</th><td>Connected to Wi-Fi and connected to cloud.</td><tr>
+<tr><td> Wi-Fi light single blinking: </th><td> Connected to Wi-Fi but no cloud access, hotspot off.</th></tr>
+<tr><td>Wi-Fi solid: LED</th><td>Connected to Wi-Fi and connected to cloud, hotspot off.</td><tr>
 <tr><td>Guardian RF LED double blinking:</td><td>Bluetooth is on.</td></tr>
 <tr><td>Guardian RF single blinking:</td><td>Guardian RF message received</td></tr>
 <tr><td>Guardian RF LED off:</td><td>Bluetooth off and no Guardian RF message received.</td></tr>
@@ -77,10 +77,10 @@ Bottom LED: pulsing red
 
 <table>
 <tr><th> Behavior </th><th> This happens when...</th></tr>
-<tr><td>Press button once:</th><td>Valve opens or closes.</td><tr>
+<tr><td>Press button once:</th><td>Valve opens, closes or stops.</td><tr>
 <tr><td>Hold for 5 seconds:</td><td>Guardian beeps and Bluetooth is turned on.</td></tr>
-<tr><td>Hold for 15 seconds:</td><td>Guardian beeps and Wi-Fi AP information is reset.</td></tr>
-<tr><td>Hold for 25 seconds:</td><td>Guardian beeps, factory reset.</td></tr>
+<tr><td>Hold for 15 seconds:</td><td>Guardian beeps twice and Wi-Fi AP information is reset.</td></tr>
+<tr><td>Hold for 25 seconds:</td><td>Guardian beeps thrice, factory reset.</td></tr>
 </table>
 
 **Press button once:**	*Valve opens or closes.*
