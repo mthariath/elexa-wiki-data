@@ -9,7 +9,7 @@ The Valve Controller is the heart of a Guardian system. It installs over standar
 
 **Functional Description of Guardian**
 
-**Top LED Behavior **                             ** Behavior	This happens when...**
+**Top LED Behavior **                             
 Power LED on:	                                    Unit is plugged in.
 Power LED off:	                                   Unit is not plugged in.
 Wi-Fi LED double blinks:	                   Hotspot on.
