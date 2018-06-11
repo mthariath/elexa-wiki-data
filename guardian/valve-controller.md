@@ -7,22 +7,22 @@ The Valve Controller is the heart of a Guardian system. It installs over standar
 **Guardian Set-up/testing**
 1.	Close your valve
 2.	Mount the Guardian Valve Controller on the valve and plug it in. 
-Power LED: solid
+*Power LED: solid
 Wi-Fi LED: heart beat mode
 RF LED: Off
-Bottom LED: pulsing red
+Bottom LED: pulsing red*
 3.	Turn on your phone’s Bluetooth. Open the latest version of your Guardian app. Enter your log-in credentials
 4.	Select “SETUP” under the corresponding PIN for your Guardian, enter your Wi-Fi login details. 
 Guardian will reboot
-Power LED: Solid>Solid> Solid
+*Power LED: Solid>Solid> Solid
 Wi-Fi LED: Heart Beat >Off>Solid
 RF LED: Off>On>Off
-Bottom LED: pulsing red>Pulsing red> Pulsing red
+Bottom LED: pulsing red>Pulsing red> Pulsing red*
 5.	Guardian will update automatically 
-Power LED: Solid>solid>solid>solid>off as bottom LED turns purple>solid
+*Power LED: Solid>solid>solid>solid>off as bottom LED turns purple>solid
 Wi-Fi LED: Solid>Off>blinking>solid>off as bottom LED turns blinks purple>solid
 RF LED: Off>Off>blink>off>blink>off
-Bottom LED: solid blue> solid blue > solid blue> solid blue>solid purple>off>flashes purple 7x>solid blue
+Bottom LED: solid blue> solid blue > solid blue> solid blue>solid purple>off>flashes purple 7x>solid blue*
 6.	Confirm location on your app and start calibration. Bottom LED will be blinking Blue upon opening of valve and blinking red upon closing.
 7.	Exit Set up after calibration
 8.	Devices>Valve Controller>Settings>Firmware version. Check if Guardian has updated to latest firmware version
