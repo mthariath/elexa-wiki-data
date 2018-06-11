@@ -63,7 +63,7 @@ Bottom LED: pulsing red
 <tr><td>Guardian RF LED off:</td><td>Bluetooth off and no Guardian RF message received.</td></tr>
 </table>
                           
-**Power LED on:**	                                    *Unit is plugged in.*
+##### **Power LED on:**	                                    *Unit is plugged in.*
 **Power LED off:**	                                   *Unit is not plugged in.*
 **Wi-Fi LED double blinks:**	                   *Hotspot on.*
 **Wi-Fi LED off:**	                                    *Hotspot off, not connected to Wi-Fi.*
@@ -71,7 +71,7 @@ Bottom LED: pulsing red
 **Wi-Fi solid: LED**	                                   *Connected to Wi-Fi and connected to cloud.*
 **Guardian RF LED double blinking:**	    *Bluetooth is on.*
 **Guardian RF LED single blinking:**	      *Guardian RF message received.*
-**Guardian RF LED off:**	                         *Bluetooth off and no Guardian RF message received.*
+**Guardian RF LED off:**	                         *Bluetooth off and no Guardian RF message received.* ##### 
 
 #### Button Behavior 
 
@@ -83,10 +83,10 @@ Bottom LED: pulsing red
 <tr><td>Hold for 25 seconds:</td><td>Guardian beeps thrice, factory reset.</td></tr>
 </table>
 
-**Press button once:**	*Valve opens or closes.*
+##### **Press button once:**	*Valve opens or closes.*
 **Hold for 5 seconds:**	*Guardian beeps and Bluetooth is turned on.*
 **Hold for 15 seconds:**	*Guardian beeps and Wi-Fi AP information is reset.*
-**Hold for 25 seconds:**	*Guardian beeps, factory reset.*
+**Hold for 25 seconds:**	*Guardian beeps, factory reset.* #####
 
 #### Bottom LED Behavior
 
