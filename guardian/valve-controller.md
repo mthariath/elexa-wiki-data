@@ -53,6 +53,7 @@ Bottom LED: pulsing red
  <tr><th>Food</th><th>Price</th></tr>
  <tr><td>Bread</td><td>$2.99</td></tr>
  <tr><td>Milk</td><td>$1.40</td></tr>
+ </table>
 
                           
 **Power LED on:**	                                    *Unit is plugged in.*
