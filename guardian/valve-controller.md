@@ -1,5 +1,5 @@
 # Valve Controller
-"right" ![Valve Controller](/uploads/valve-controller.png "Valve Controller")
+![Valve Controller](/uploads/valve-controller.png "Valve Controller"){.align-right}
 The Valve Controller is the heart of a Guardian system. It installs over standard ball valves with no tools and no plumber to automatically shut off the water main during a leak. It also acts as the point of contact between the Guardian app and all connected Water Detectors in the system.
 
 ## Installation
