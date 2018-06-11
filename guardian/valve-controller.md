@@ -76,13 +76,6 @@ Bottom LED: pulsing red
 **Alternating red and blue:**	 *Valve handle stalled.*
 **Flashing purple:**	            *ST update.*
 
-
-
-
-
-## Deployment
-
-
 ## API
 
 1. [Gvc 1 Api Document](/uploads/gvc-1-api-document.pdf "Gvc 1 Api Document")
