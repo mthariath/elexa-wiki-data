@@ -52,15 +52,15 @@ Bottom LED: pulsing red
 
 <table>
 <tr><th> Behavior </th><th> This happens when...</th></tr>
-<tr><td>Power LED on:</th><td>Unit is plugged in</td><tr>
-<tr><td>Power LED off:</td><td>Unit is not plugged in.</td></tr>
-<tr><td>Wi-Fi LED double blinks:</td><td>Hotspot on.</td></tr>
-<tr><td>Wi-Fi LED off:</td><td>Hotspot off, not connected to Wi-Fi.</td></tr>
-<tr><td> Wi-Fi light single blinking: </th><td> Connected to Wi-Fi but no cloud access, hotspot off.</th></tr>
-<tr><td>Wi-Fi solid: LED</th><td>Connected to Wi-Fi and connected to cloud, hotspot off.</td><tr>
-<tr><td>Guardian RF LED double blinking:</td><td>Bluetooth is on.</td></tr>
-<tr><td>Guardian RF single blinking:</td><td>Guardian RF message received</td></tr>
-<tr><td>Guardian RF LED off:</td><td>Bluetooth off and no Guardian RF message received.</td></tr>
+<tr><td>Power LED on</th><td>Unit is plugged in</td><tr>
+<tr><td>Power LED off</td><td>Unit is not plugged in.</td></tr>
+<tr><td>Wi-Fi LED double blinks</td><td>Hotspot on.</td></tr>
+<tr><td>Wi-Fi LED off</td><td>Hotspot off, not connected to Wi-Fi.</td></tr>
+<tr><td> Wi-Fi light single blinking </th><td> Connected to Wi-Fi but no cloud access, hotspot off.</th></tr>
+<tr><td>Wi-Fi solid LED</th><td>Connected to Wi-Fi and connected to cloud, hotspot off.</td><tr>
+<tr><td>Guardian RF LED double blinking</td><td>Bluetooth is on.</td></tr>
+<tr><td>Guardian RF single blinking</td><td>Guardian RF message received</td></tr>
+<tr><td>Guardian RF LED off</td><td>Bluetooth off and no Guardian RF message received.</td></tr>
 </table>
                           
  **Power LED on:**	                                    *Unit is plugged in.*
@@ -77,10 +77,10 @@ Bottom LED: pulsing red
 
 <table>
 <tr><th> Behavior </th><th> This happens when...</th></tr>
-<tr><td>Press button once:</th><td>Valve opens, closes or stops.</td><tr>
-<tr><td>Hold for 5 seconds:</td><td>Guardian beeps and Bluetooth is turned on.</td></tr>
-<tr><td>Hold for 15 seconds:</td><td>Guardian beeps twice and Wi-Fi AP information is reset.</td></tr>
-<tr><td>Hold for 25 seconds:</td><td>Guardian beeps thrice, factory reset.</td></tr>
+<tr><td>Press button once</th><td>Valve opens, closes or stops.</td><tr>
+<tr><td>Hold for 5 seconds</td><td>Guardian beeps and Bluetooth is turned on.</td></tr>
+<tr><td>Hold for 15 seconds</td><td>Guardian beeps twice and Wi-Fi AP information is reset.</td></tr>
+<tr><td>Hold for 25 seconds</td><td>Guardian beeps thrice, factory reset.</td></tr>
 </table>
 
 **Press button once:**	*Valve opens or closes.*
@@ -92,11 +92,11 @@ Bottom LED: pulsing red
 
  <table>
 <tr><th> Behavior </th><th> This happens when...</th></tr>
-<tr><td>Breathing red:</th><td>Valve handle closed.</td><tr>
-<tr><td>Blinking blue:</td><td> Valve handle is opening.</td></tr>
-<tr><td>Blinking red:	  </td><td>Valve handle open.</td></tr>
-<tr><td>Alternating red and blue:</td><td> Valve handle is closing.</td></tr>
-<tr><td>Flashing purple:</td><td>ST update.</td></tr>
+<tr><td>Breathing red</th><td>Valve handle closed.</td><tr>
+<tr><td>Blinking blue</td><td> Valve handle is opening.</td></tr>
+<tr><td>Blinking red</td><td>Valve handle open.</td></tr>
+<tr><td>Alternating red and blue</td><td> Valve handle is closing.</td></tr>
+<tr><td>Flashing purple</td><td>ST update.</td></tr>
 </table>
 
 **Breathing red:**	        *Valve handle closed.*
