@@ -20,7 +20,7 @@
 * [Gvcb 1 Packaging Design Doc 2](/uploads/gvcb-1-packaging-design-doc-2.ai "Gvcb 1 Packaging Design Doc 2")
 * [Gvcb 1 Packaging Design Doc 3](/uploads/gvcb-1-packaging-design-doc-3.ai "Gvcb 1 Packaging Design Doc 3")
 
-2. PDF FILES
+2. PDF files
 * [Gvcb 1 Packaging Desing 180430 Matt Copy](/uploads/gvcb-1-packaging-desing-180430-matt-copy.pdf "Gvcb 1 Packaging Desing 180430 Matt Copy")
 * [180501 Gvcb 1 Packaging Desing 180430 Matt Jp Ol](/uploads/180501-gvcb-1-packaging-desing-180430-matt-jp-ol.pdf "180501 Gvcb 1 Packaging Desing 180430 Matt Jp Ol")
 
