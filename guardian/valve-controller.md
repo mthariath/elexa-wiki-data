@@ -27,7 +27,7 @@ Bottom LED: solid blue> solid blue > solid blue> solid blue>solid purple>off>fla
 7.	Exit Set up after calibration
 8.	Devices>Valve Controller>Settings>Firmware version. Check if Guardian has updated to latest firmware version
 9.	Go back to main menu >Add new Device>Add leak/water detector
-10.	Activate your leak detector (lick the sensor, put water on it)
+10.	Activate your leak detector (put water on it)
 11.	Connect your leak detector to Guardian using their PIN. The RF led should blink every time you shake/move the leak detector
 12.	Go to Devices>Click on all the connected leak detectors on by one and check if their status is DRY, and battery level is over 90%. Shake/move detector to refresh readings. RF LED should blink 3 times every time you move the detector.
 13.	Put water on one of the sensors and see if valve handle shuts and the Guardian beeps. RF led will blink thrice. Check app activity to see if you have received a notification of the leak and of the valve handle closing
@@ -37,10 +37,10 @@ Bottom LED: solid blue> solid blue > solid blue> solid blue>solid purple>off>fla
 17.	After testing all leak detectors, open valve handle again
 18.	Plug in remote probe to the Guardian, Wet the probe, valve handle should close. Guardian should beep and App should notify you of a leak.
 19.	Factory reset and remove Guardian: Devices>Valve controller settings>Remove this Device>Yes
-Power LED: Solid
+*Power LED: Solid
 Wi-Fi LED: Heart Beat 
 RF LED: Off
-Bottom LED: pulsing red
+Bottom LED: pulsing red*
 20.	Connect Guardian to the App again. Find your corresponding valve controller and match its PIN and get to “connect to Wi-Fi “page on app (Do not set up Wi-Fi). If your previous log in credentials are not associated/saved with the valve controller, then factory set was successful. If not, connect Guardian again and repeat Calibration. Follow Step 19 again to disconnect after calibration. 
 21.	Unplug your Guardian 
 	
