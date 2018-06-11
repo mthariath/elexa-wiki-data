@@ -64,8 +64,7 @@ Bottom LED: pulsing red
 
 <table>
 <tr><th> Behavior </th><th> This happens when...</th></tr>
-<tr><th>**Press button once:**</th><th><tr><th>**Press button once:**</th><th></th></tr>
-</th></tr>
+<tr><th>**Press button once:**</th><td>*Valve opens or closes.*</td><tr>
 <tr><td>**Hold for 5 seconds:**</td><td>*Guardian beeps and Bluetooth is turned on.*</td></tr>
 <tr><td>**Hold for 15 seconds:**</td><td>*Guardian beeps and Wi-Fi AP information is reset.*</td></tr>
 <tr><td>**Hold for 25 seconds:**</td><td>*Guardian beeps, factory reset.*</td></tr>
