@@ -169,7 +169,7 @@ Bottom LED: pulsing red
  4. [Threadhammer 002 Py](/uploads/threadhammer-002-py.docx "Threadhammer 002 Py")
  5. [Recalhammer Py](/uploads/recalhammer-py.docx "Recalhammer Py")
 
-### Application files
+### Executable files
 1. [Helphammer 2 0 0](/uploads/helphammer-2-0-0.exe "Helphammer 2 0 0")
 2. [Helphammer 2 1 0](/uploads/helphammer-2-1-0.exe "Helphammer 2 1 0")
 3. [Helphammer 2 2 1](/uploads/helphammer-2-2-1.exe "Helphammer 2 2 1")
