@@ -7,18 +7,18 @@ The Valve Controller is the heart of a Guardian system. It installs over standar
 
 ## Running the tests
 
-Functional Description of Guardian
+**Functional Description of Guardian**
 
-Top LED Behavior:                              Behavior	This happens when...
-Power LED on	Unit is plugged in.
-Power LED off	Unit is not plugged in.
-Wi-Fi LED double blinks	Hotspot on.
-Wi-Fi LED off	Hotspot off, not connected to Wi-Fi.
-Wi-Fi light single blinking	Connected to Wi-Fi but no cloud access.
-Wi-Fi solid LED	Connected to Wi-Fi and connected to cloud.
-Guardian RF LED double blinking	Bluetooth is on.
-Guardian RF LED single blinking	Guardian RF message received.
-Guardian RF LED off	Bluetooth off and no Guardian RF message received.
+**Top LED Behavior **                             ** Behavior	This happens when...**
+Power LED on:	                                    Unit is plugged in.
+Power LED off:	                                   Unit is not plugged in.
+Wi-Fi LED double blinks:	                   Hotspot on.
+Wi-Fi LED off:	                                    Hotspot off, not connected to Wi-Fi.
+Wi-Fi light single blinking:	                Connected to Wi-Fi but no cloud access.
+Wi-Fi solid:                                          LED	Connected to Wi-Fi and connected to cloud.
+Guardian RF LED double blinking:	    Bluetooth is on.
+Guardian RF LED single blinking:	      Guardian RF message received.
+Guardian RF LED off:	                         Bluetooth off and no Guardian RF message received.
 
 Button Behavior 
 Behavior	This happens when...
